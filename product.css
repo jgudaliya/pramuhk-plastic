@@ -1,0 +1,173 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #177ec4;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav ul li a:hover{
+  color: #f5ff67;
+}
+
+.vision {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 0 20px;
+}
+
+.vision h2 {
+  margin-top: 40px;
+}
+
+.vision ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.vision ul li {
+  margin-bottom: 10px;
+}
+
+.n-1-icon,
+.n-1-icon1 {
+  position: absolute;
+  top: 74px;
+  left: 30px;
+  width: 640px;
+  height: 485px;
+  object-fit: cover;
+}
+
+.n-1-icon{
+  cursor: pointer;
+}
+
+.n-1-icon1 {
+  left: 730px;
+  width: 665px;
+  cursor: pointer;
+}
+.whatsapp-image-2020-06-05-at-7-icon {
+  position: absolute;
+  top: 637px;
+  left: 30px;
+  width: 291px;
+  height: 481px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.jpfdfdffd-1-icon,
+.whatsapp-image-2020-06-08-at-7-icon {
+  position: absolute;
+  top: 743px;
+  left: 474px;
+  width: 391px;
+  height: 330px;
+  object-fit: cover;
+}
+
+.whatsapp-image-2020-06-08-at-7-icon{
+  cursor: pointer;
+}
+
+.jpfdfdffd-1-icon {
+  top: 708px;
+  left: 989px;
+  width: 374px;
+  height: 365px;
+  cursor: pointer;
+}
+.desktop-8 {
+  width: 100%;
+  position: relative;
+  background-color: rgb(90, 47, 47);
+  height: 1118px;
+  overflow: hidden;
+}
+
+
+.services {
+  color: #f96131;
+}
+.products-services-container,
+.we-are-engaged {
+  position: absolute;
+  top: 40px;
+  left: 256px;
+  display: inline-block;
+  width: 928px;
+  height: 160px;
+}
+.we-are-engaged {
+  top: 304px;
+  left: 166px;
+  font-size: 36px;
+  width: 1168px;
+  height: 180px;
+}
+.download-1-icon,
+.images-1-icon {
+  position: absolute;
+  top: 512px;
+  left: 136px;
+  width: 584px;
+  height: 540px;
+  object-fit: cover;
+}
+
+.download-1-icon{
+  cursor: pointer;
+}
+
+.images-1-icon {
+  left: 762px;
+  width: 612px;
+  cursor: pointer;
+}
+.desktop-4 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 1148px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 64px;
+  color: black;
+  font-family: Inter;
+}
+
+
+footer {
+  background-color: #797575;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
